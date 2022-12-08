@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zomto-app/static/css/main.9cd83635.css",
+    "main.js": "/zomto-app/static/js/main.8b03507f.js",
+    "index.html": "/zomto-app/index.html",
+    "main.9cd83635.css.map": "/zomto-app/static/css/main.9cd83635.css.map",
+    "main.8b03507f.js.map": "/zomto-app/static/js/main.8b03507f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cd83635.css",
+    "static/js/main.8b03507f.js"
+  ]
+}
